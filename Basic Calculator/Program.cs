@@ -47,7 +47,7 @@ class Calculator
                         case "/":
                             if (num2 == 0)
                             {
-                                Console.WriteLine("Error: Division by zero is not allowed.");
+                                Console.WriteLine("Error: Division by zero is not allowed and not acceptable.");
                             }
                             else
                             {
