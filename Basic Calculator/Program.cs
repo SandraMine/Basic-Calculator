@@ -14,7 +14,7 @@ class Calculator
 
                     if (!double.TryParse(input1, out double num1))
                     {
-                        Console.WriteLine("Invalid input. Please enter a numeric value.");
+                        Console.WriteLine("Invalid input. Please enter a numeric value and number.");
                         continue;
                     }
 
